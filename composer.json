@@ -11,5 +11,7 @@
             "email": "semjonkk@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.29"
+    }
 }

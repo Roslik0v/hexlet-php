@@ -1,0 +1,15 @@
+{
+    "name": "roslikov888/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Roslikov888\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roslikov Semen",
+            "email": "semjonkk@mail.ru"
+        }
+    ],
+    "require": {}
+}
